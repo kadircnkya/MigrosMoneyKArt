@@ -1,1 +1,2 @@
-##                            Migros Money Kart İle ALısveris Heasbı
+##                            Migros Money Kart İle Alısveris Hesabı
+
